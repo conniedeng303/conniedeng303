@@ -9,7 +9,7 @@ I'm a Mathematics major with a minor in Computer Science at Binghamton Universit
 ### 🤗 What Am I Apart Of?
 **Affiliations**: Grace Hopper, Rewriting The Code, Society of Women Engineers, Codepath, Break Through Tech AI, Women in Tech
 
-## 💫 Current Projects!
+### 💫 Current Projects!
 - Trying my hand with OpenGL and CUDA, by building a gem raytracer, but I'll see how it goes!
 - Getting better @ Leetcode by working on a google extension that lets me battle my friends online!
 - Current a SWE intern @ Bank of America. Am learning a lot! 🤓
