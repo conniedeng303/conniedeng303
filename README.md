@@ -1,5 +1,5 @@
 # Hi, I'm Connie! 👋
-I'm a Mathematics major with a minor in Computer Science at Binghamton University. I'm pretty interested in math, machine learning, backend development, graphics, and data science but I'm the type of gal that enjoys getting my grubby hands on everything. In my free time, I love puzzle solving, crocheting, and learning languages! So in general, just tinkering!
+I'm a Mathematics major with a minor in Computer Science at Binghamton University. I'm pretty interested in math, machine learning, backend development, graphics, and data science but I'm the type of gal that enjoys getting my grubby hands on everything. In my free time, I love puzzle solving, crocheting, learning languages, and general tomfoolery.
 
 ### 🛠️ Skills
 - **Languages:** Java, Python, C++, JavaScript, HTML, CSS
